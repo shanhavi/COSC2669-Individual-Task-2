@@ -1,0 +1,9 @@
+model,true_class,class_accuracy
+KNN,0,0.9875
+KNN,1,0.9775
+KNN,2,0.97
+KNN,3,0.9975
+SVM,0,0.995
+SVM,1,0.82
+SVM,2,0.935
+SVM,3,0.5425
